@@ -1,0 +1,44 @@
+IncomeGroup,Country,Recent Year,GDP Spending Percentage,Crime Index of Year 2019,GDP Spending Percentage Type,Crime Index of Year 2019 Type
+High income,United Arab Emirates,2019,3.1,16.32,Low Spending,Low Crime Rate
+High income,Australia,2018,5.11,42.76,High Spending,High Crime Rate
+High income,Austria,2018,5.23,21.37,High Spending,Low Crime Rate
+High income,Belgium,2018,6.38,42.46,High Spending,High Crime Rate
+High income,Bahrain,2017,2.32,32.87,Low Spending,Low Crime Rate
+High income,Canada,2011,5.26,39.51,High Spending,High Crime Rate
+High income,Switzerland,2018,4.86,21.5,Low Spending,Low Crime Rate
+High income,Chile,2018,5.43,46.81,High Spending,High Crime Rate
+High income,Cyprus,2017,5.75,29.31,High Spending,Low Crime Rate
+High income,Czech Republic,2018,4.27,26.66,Low Spending,Low Crime Rate
+High income,Germany,2018,4.99,34.51,Low Spending,High Crime Rate
+High income,Denmark,2017,7.75,24.25,High Spending,Low Crime Rate
+High income,Spain,2018,4.18,32.46,Low Spending,Low Crime Rate
+High income,Estonia,2018,5.24,20.8,High Spending,Low Crime Rate
+High income,Finland,2018,6.27,22.8,High Spending,Low Crime Rate
+High income,France,2018,5.41,46.39,High Spending,High Crime Rate
+High income,United Kingdom,2018,5.24,42.72,High Spending,High Crime Rate
+High income,Greece,2018,3.59,38.57,Low Spending,High Crime Rate
+High income,Croatia,2017,3.91,24.69,Low Spending,Low Crime Rate
+High income,Hungary,2018,4.63,35.17,Low Spending,High Crime Rate
+High income,Ireland,2018,3.38,44.52,Low Spending,High Crime Rate
+High income,Iceland,2018,7.57,23.28,High Spending,Low Crime Rate
+High income,Israel,2018,6.16,32.16,High Spending,Low Crime Rate
+High income,Italy,2018,4.26,45.02,Low Spending,High Crime Rate
+High income,Kuwait,2020,6.55,33.91,High Spending,High Crime Rate
+High income,Lithuania,2018,3.89,36.51,Low Spending,High Crime Rate
+High income,Luxembourg,2018,3.67,29.07,Low Spending,Low Crime Rate
+High income,Latvia,2018,4.25,36.77,Low Spending,High Crime Rate
+High income,Malta,2017,4.65,33.53,Low Spending,High Crime Rate
+High income,Netherlands,2018,5.36,28.57,High Spending,Low Crime Rate
+High income,Norway,2018,7.64,35.32,High Spending,High Crime Rate
+High income,New Zealand,2018,6.05,39.55,High Spending,High Crime Rate
+High income,Oman,2019,5.41,22.83,High Spending,Low Crime Rate
+High income,Poland,2018,4.62,30.09,Low Spending,Low Crime Rate
+High income,Puerto Rico,2014,6.07,65.53,High Spending,High Crime Rate
+High income,Portugal,2018,4.68,32.13,Low Spending,Low Crime Rate
+High income,Qatar,2020,3.19,13.26,Low Spending,Low Crime Rate
+High income,Saudi Arabia,2008,5.14,29.73,High Spending,Low Crime Rate
+High income,Singapore,2020,2.51,21.47,Low Spending,Low Crime Rate
+High income,Slovenia,2018,4.94,22.57,Low Spending,Low Crime Rate
+High income,Sweden,2018,7.64,49.35,High Spending,High Crime Rate
+High income,Uruguay,2019,4.68,52.01,Low Spending,High Crime Rate
+High income,United States,2020,4.96,47.13,Low Spending,High Crime Rate
